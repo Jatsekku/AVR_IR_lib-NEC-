@@ -1,2 +1,2 @@
 # AVR_IR_lib-NEC-
-Library for AVR with implemented NEC protocol 
+AVR Library for IR NEC protocol 
